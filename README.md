@@ -13,11 +13,15 @@ The follow instructions and commands is for run the program in the terminal.
 
 **cd darknet**
 
-For detect a imagen by command line, execute this command 
+For detect a imagen by command line, execute this command.
 **./darknet detect cfg/yolov3.cfg yolov3.weights.1 bici.jpg**
 
-For detect in real time, execute this command with webcam
-**./darknet detector demo cfg/coco.data cfg/yolov3.cfg yolov3.weights**
+For detect in real time, execute this command with webcam.
+**./darknet detector demo cfg/coco.data cfg/yolov3.cfg yolov3.weights.1**
+
+         
+
+
 
 
 
