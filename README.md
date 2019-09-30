@@ -5,7 +5,7 @@ YOLO it is a system for real time object detection. YOLO use the data set COCO d
 
 I attached the link for the Virtual Machine (VM) because you can use this for experiment, avoiding install all the components for run YOLO. This VM is easy to use, and it allows decide if use this system or not. Also, you can use this VM to know and demonstrate the functionalities of the YOLO. 
 You only need run the commands for obtain the results for the object detection in real time.
-This Virtual Machine is on Ubuntu 18.04. The password is "1234". This VM use OpenCV. You can run it on a computer with or without a graphics card.
+This Virtual Machine is on Ubuntu 18.04. The password is "1234". This VM use OpenCV. You can run it on a computer with or without a graphics card. You can import this VM in VMware Workstation.
 
 This is a [guide](https://revistas.ulatina.ac.cr/index.php/tecnologiavital/article/download/250/260) to start in Machine Learning with YOLO.
 
