@@ -1,5 +1,5 @@
 # Virtual-Machine-for-YOLO
-[It is a Virtual Machine for run the YOLO (You Only Look Once)](https://drive.google.com/drive/u/4/folders/1hjfmpTuctrJNz1gPnWLkfYX7a78OXP2K). 
+[It is a Virtual Machine for run the YOLO (You Only Look Once)](https://mega.nz/#!P7ZFFQCA!XdA-Ivc44-Lw6jE-UrMeobAoA7PxqkFELbbptE25ios). 
 
 YOLO it is a system for real time object detection. YOLO use the data set COCO default for detect approximately 80 objects. You can find more information in the official page [YOLO](https://pjreddie.com/darknet/yolo/)            
 
